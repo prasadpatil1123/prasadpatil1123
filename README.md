@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Kashiprasad </h1>
 
-<h3><p align="center" width="150px"> Highly skilled recent graduate  Pune, with expertise in full stack web development. Seeking a challenging position to utilize my practical knowledge, logical thinking, and problem-solving abilities. Known for my fast learning capabilities, analytical mindset, and comprehensive understanding of various domains..</p></h3>
+<h3><p align="center" width="150px"> Motivated IT Service Desk professional from Navi Mumbai, with hands-on experience in support and troubleshooting. Looking for a challenging role to use my technical knowledge, logical thinking, and problem-solving skills. Known for being a fast learner, having a sharp mind, and understanding different IT areas.</p></h3>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadpatil1123&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
